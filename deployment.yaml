@@ -14,6 +14,6 @@ spec:
     spec:
       containers:
       - name: spring-demo
-        image: messaoudiachraf/spring-demo:1
+        image: messaoudiachraf/spring-demo:6
         ports:
         - containerPort: 8080
